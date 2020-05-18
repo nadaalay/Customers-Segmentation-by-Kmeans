@@ -19,8 +19,8 @@ In this project, I will analyze a mall customers’ dataset to answer the follow
 To answer this question, I will build a K-means clustering model to group the customers by their characteristics. This grouping is to understand each segment and target the right customers to let them stay with the business.
 
 ## File Descriptions <a name="files"></a>
-	- One notebook file `Customers_Segmentation_by_Kmeans.ipynb` which contains the code. 
-	- One csv file `Mall_Customers.csv` which contains the customer dataset.
+- One notebook file `Customers_Segmentation_by_Kmeans.ipynb` which contains the code. 
+- One csv file `Mall_Customers.csv` which contains the customer dataset.
 	
 ## Installation <a name="installation"></a>
 All libraries are avilable in Anaconda distribution of Python.  The code should run using Python versions 3.*.
