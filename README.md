@@ -1,4 +1,4 @@
-## Customer Segmentation by Kmeans
+## Customers Segmentation by Kmeans
 
 ### Table of Contents
 
@@ -42,4 +42,4 @@ From the clustering we found that, the customers in cluster 3 and cluster 4 are 
 
 
 ## Licensing <a name="licensing"></a>
-The dataset is avilable in Kaggle [here](https://www.kaggle.com/shwetabh123/mall-customers) website. 
+The dataset is avilable in [Kaggle](https://www.kaggle.com/shwetabh123/mall-customers) website. 
