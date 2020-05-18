@@ -4,11 +4,10 @@
 
 1. [Project Overview and Motivation](#motivation)
 2. [File Descriptions](#files)
-3. [Results](#results)
-4. [Licensing](#licensing)
+3. [Installation](#installation)
+4. [Results](#results)
+5. [Licensing](#licensing)
 
-## Installation <a name="installation"></a>
-All libraries are avilable in Anaconda distribution of Python.  The code should run using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 Customers are important to the survival and success of any business because they are the source of the revenue. The success of a business is the ability to satisfy customers and make them happy, and therefore turn a profit from them. To achieve a business success, the business has to find the right potential customers. 
@@ -22,6 +21,9 @@ To answer this question, I will build a K-means clustering model to group the cu
 ## File Descriptions <a name="files"></a>
 	- One notebook file `Customers_Segmentation_by_Kmeans.ipynb` which contains the code. 
 	- One csv file `Mall_Customers.csv` which contains the customer dataset.
+	
+## Installation <a name="installation"></a>
+All libraries are avilable in Anaconda distribution of Python.  The code should run using Python versions 3.*.
  
 ## Results<a name="results"></a>
 There are five type of cluster which are:
