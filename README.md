@@ -6,7 +6,6 @@
 2. [File Descriptions](#files)
 3. [Installation](#installation)
 4. [Results](#results)
-5. [Licensing](#licensing)
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -20,7 +19,7 @@ To answer this question, I will build a K-means clustering model to group the cu
 
 ## File Descriptions <a name="files"></a>
 - One notebook file `Customers_Segmentation_by_Kmeans.ipynb` which contains the code. 
-- One csv file `Mall_Customers.csv` which contains the customer dataset.
+- One csv file `Mall_Customers.csv` which contains the customer dataset. The dataset is avilable in [Kaggle](https://www.kaggle.com/shwetabh123/mall-customers) website.
 	
 ## Installation <a name="installation"></a>
 All libraries are avilable in Anaconda distribution of Python.  The code should run using Python versions 3.*.
@@ -43,5 +42,3 @@ Customers data clustering help us to understand the customers’ characteristics
 From the clustering we found that, the customers in cluster 3 and cluster 4 are usually female who are between the ages of 20 and 30 years old. So, to obtain new customers, we can fouces on female who are between 20 and 30 in the advertising campaign. 
 
 
-## Licensing <a name="licensing"></a>
-The dataset is avilable in [Kaggle](https://www.kaggle.com/shwetabh123/mall-customers) website. 
